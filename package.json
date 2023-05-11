@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "In this exercise, you will write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
